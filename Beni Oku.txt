@@ -1,3 +1,0 @@
-Bu App Sadece Yaþadýðým ÞEHÝR Kýrþehir'in hava durumunu göstermektedir.
-Python bilginiz var ise kodlardan deðiþiklik yaparak yaþadýðýnýz þehre uyarlayabilirsiniz.
-Yusuf Tekin
